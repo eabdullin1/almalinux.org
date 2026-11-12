@@ -14,10 +14,10 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "10.2"
-          sha256: cbee4726fc0f5a60694bb4f289003cc221e715dfbacebcce76b54daf386d8eca
+          sha256: 0c3261d2b2d6ac47b4786bb4f0e96706b885caad760e653aac11276de283f3e3
         openNebula:
           fullVersion: "10.2"
-          sha256: 370f0ec00ba23082f09f29e4a0d4762d5a5c8aaecfca16d1c6e6b30bc5b48e65
+          sha256: 3d0625119acbb3ba1150c0d06e9d438fb0ac6bda4d2bcf00e6707716b8ae3b79
     x86_64_v2:
       iso:
         boot:
@@ -32,10 +32,10 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "10.2"
-          sha256: bf441cb90a56ee08ec8a3c38d920996e217e79cfdf6e33561afd3408bed5a337
+          sha256: 6418337094ffc31874f775f5da1aca8989d29ad66cfe3824ab0047cdc5e45c09
         openNebula:
           fullVersion: "10.2"
-          sha256: ae8ffc373d7dff8f9c8c2ad18f60aceb7db6e742347096eb071e5d933d2e13ee
+          sha256: 5aa84d02d56171f4eebd2c0f09438ab05873cbe9b95615429fc8566edc48af14
     aarch64:
       iso:
         boot:
@@ -50,10 +50,10 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "10.2"
-          sha256: ca65d1c32430acd84e9126c2e48f3b4110cd649a592712bfb570a6650e7e19e7
+          sha256: b8f04aa367f91956ce9d1221d9d0f05406117eb59e737d09ce58b58ce375c4d8
         openNebula:
           fullVersion: "10.2"
-          sha256: 0d90572cc658e0c14cb45beae94bc0bb12926062711f49fd18580b1ec33ad7bf
+          sha256: 5ab25570f7a418c163004e083847376fbf5b87b28f2c5269cac867a2edd276f1
     s390x:
       iso:
         boot:
@@ -68,7 +68,7 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "10.2"
-          sha256: 73f6648eb789eea7a53300c6a7c654fa3c0d8967670173a9ed384eab5a05799a
+          sha256: 52b84ddbc53c1ba642d90ab4f32c8ee5c4b2e47f3d2a0fea6670204ca7d31f72
     ppc64le:
       iso:
         boot:
@@ -169,10 +169,10 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "9.8"
-          sha256: 25942b554efaac077e2f60d6bb27bd3332c171454cc21bbd33e5f79244d7570f
+          sha256: bf9088375c94dd5df7c22ab78f6183eea007a1c66076224e115d4e2c26205fa4
         openNebula:
           fullVersion: "9.8"
-          sha256: 4f9521d8eb35130eef57d03953ea63777d71fdcc5d70a8b3aef7516c0d2f5f6e
+          sha256: a2cb286ead017c39695490424dec300123d5aebcdf3c5b73f930b9e9907c31c4
     aarch64:
       iso:
         boot:
@@ -187,10 +187,10 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "9.8"
-          sha256: 15cf8257cb3c293268898309fe9f7d70e893b1eddff99bac9d7e53a2155d00ce
+          sha256: 6a3151c99cf5c38861fd7ce97689d6564f098892996fee5c4db8d080bb553e89
         openNebula:
           fullVersion: "9.8"
-          sha256: 26770a80a7ff1582148375327dab21f8057dafb09051196e062cca9d4fde6fc7
+          sha256: ec729b57cb60c19c5121a5868a19347f90afb155a2ca7f9c11f09da3a15c7e2e
     s390x:
       iso:
         boot:
@@ -205,7 +205,7 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "9.8"
-          sha256: 2d7ff52cf1f532b9811902243308ffb558d05727fcb3e175ccd5dccd30f7de3f
+          sha256: f38df797cd5ab5de1e5e7433658868aaf56ba1adff9a7eefe11cf598f08f3ac2
     ppc64le:
       iso:
         boot:
@@ -220,7 +220,7 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "9.8"
-          sha256: b2f8fce13c7ba2674a104145d6aebe49b004f6b7a6a9a35f7d5034ee61d04410
+          sha256: 2c716d5743d3ff6608b3ca28b7619f972c856b85c0c9470f6bb7bff38adc3e65
   "8":
     x86_64:
       iso:
@@ -236,10 +236,10 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "8.10"
-          sha256: 4a4dfcbd0a02f9fbf62dee6420a168858ff1640a26fb8840ea4013db57436a6c
+          sha256: e9e4e53fa4e9aef65ec6d16e80f1d18acbe1d1a44a47550f9095c4b1ca31f0d7
         openNebula:
           fullVersion: "8.10"
-          sha256: 6252e86711b4f5d56392336f14cada468dcde46c7196b633bd83602ad754671f
+          sha256: 2434633e958e27f9e193cade07d088dd3838d6b1eb2c89564a110b6fe6660a02
     aarch64:
       iso:
         boot:
@@ -254,10 +254,10 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "8.10"
-          sha256: b5deb2b8c9d19a92b5d8f12cdbdc20d255ed48e397fb5321a7ccf23f854b5a54
+          sha256: 8f43457a5743e41038670e1daab02ddb37c8ff425fdd8d69a5c52f3f883eafa9
         openNebula:
           fullVersion: "8.10"
-          sha256: ef64002754f2ad610c99b8b32b589ed6aecdf2651ef22e01a3d6a05dfc98624e
+          sha256: 8a707b5640615a5f0f624f9380fd924374fc35602474ebb3ee289e9e2177105b
     s390x:
       iso:
         boot:
@@ -272,7 +272,7 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "8.10"
-          sha256: d84400eb8b08ee9e17474f408deb2092ab377e1e1763339a8d9fdc09a1d03774
+          sha256: 570a1407be407aa1ea222ca4ad26034d21eefc86b7831cc38978ade0580891eb
     ppc64le:
       iso:
         boot:
@@ -287,4 +287,4 @@ versions:
       cloud:
         genericCloud:
           fullVersion: "8.10"
-          sha256: b3fc5c414908197ce8da99cf4929ccc1657ab30797d67681e889d165d7daf619
+          sha256: 8fa20984998aed7947cf0f0444eb89e0f630746c270c4bddcfee84cb6cfabf01
